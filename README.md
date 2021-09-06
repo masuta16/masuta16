@@ -1,6 +1,6 @@
  <div>
   <a href="https://github.com/masuta16">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masuta16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masuta16&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masuta16&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
